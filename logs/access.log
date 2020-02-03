@@ -1,0 +1,5 @@
+172.19.0.1 - - [03/Feb/2020:18:36:27 +0000] "GET / HTTP/1.1" 200 90545 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+172.19.0.1 - - [03/Feb/2020:18:36:28 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://hello.test:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+172.19.0.1 - - [03/Feb/2020:18:37:54 +0000] "GET / HTTP/1.1" 200 91633 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+172.19.0.1 - - [03/Feb/2020:18:40:33 +0000] "GET / HTTP/1.1" 200 90535 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+172.19.0.1 - - [03/Feb/2020:18:40:34 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://mysql:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
